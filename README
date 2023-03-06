@@ -6,3 +6,5 @@ Quick start guide:
    make
 
 For any more detailed instructions, see http://ipxe.org
+
+This fork of iPXE includes support for VMware GuestInfo settings.
